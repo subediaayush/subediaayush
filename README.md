@@ -16,7 +16,7 @@ Another Software Engineer
 
 - 💬 Ask me about anything [here](https://github.com/subediaayush/subediaayush/issues)
 
-
+<br/>
 <code><img width="24" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
  <code><img width="24" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
  <code><img width="24" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
@@ -28,10 +28,11 @@ Another Software Engineer
 <code><img width="24" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></code>
 <code><img width="24" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code>
  <code><img width="24" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code>
+<br/>
+<br/>
 
 | <a href="https://github.com/subediaayush/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=subediaayush&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aayush's github stats" /></a> | <a href="https://github.com/subediaayush/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subediaayush&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-<br />
 <br />
 
 <a href="https://twitter.com/_aayushsubedi">
